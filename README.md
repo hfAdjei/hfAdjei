@@ -2,7 +2,7 @@
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
 </h1> 
 <h3 align="center">
- <a href="https://namiji.disha.page">UX/UI Design Portfolio</a>
+ <a href="https://namiji.me">Portfolio</a>
  </h3>
  
  <p align="center">
@@ -13,8 +13,7 @@
  </p>
  
  <h3 align="left"> 
- From the streets of Accra Ghana, is a creative who is excited about journeys and passionate about finding creative solutions to everyday problems. 
- I am a UX/PRODUCT designer with essential developer skills who seeks to translate ideas, create aesthetic stuff and contribute to cool open-source projects.
+Software Design, Products and Design
  </h3>
  
  ---
