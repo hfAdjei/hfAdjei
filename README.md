@@ -2,7 +2,7 @@
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
 </h1> 
 <h3 align="center">
- <a href="https://namiji.me">Portfolio</a>
+ <a href="https://namiji.me">Find me on the internet</a>
  </h3>
  
  <p align="center">
@@ -20,7 +20,7 @@ Software Design, Products and Design
 To be great
 <p> Accra,Ghana </p>
 
-<h2 align="left">Languages:</h2> 
+**<h2 align="left">Languages:</h2> 
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
