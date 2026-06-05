@@ -17,15 +17,8 @@ Software Design, Products and Design
  </h3>
  
  ---
- On my free time, I write at [afdtechtalk](afd-techtalk.com) and [@Medium](https://medium.com/@namijiwrites).
- Outside coding I enjoy cooking, daydreaming stories I hope to publish as novels, and also geek about podcasts, photography, illustration and anime. 
-
-- 🙏🏾 I am looking for help on **React, Angular and Flutter.**
-- 🧐 I am currently learning **React.**
-- 💬 **Ask me about:** *Basics in Java, UX Design Practices and Technical Writing.*
-- 📫 **How to reach me**: *[Email me](mailto:nxmiji@gmail.com)*
-- ⚡ **Fun Fact:** I enjoy chill beats and reaction videos.
-- 😄 Pronouns: He/Him
+To be great
+Accra,Ghana
 
 <h2 align="left">Languages:</h2> 
 
