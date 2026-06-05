@@ -18,7 +18,7 @@ Software Design, Products and Design
  
  ---
 To be great
-<a> Accra,Ghana </a>
+<p> Accra,Ghana </p>
 
 <h2 align="left">Languages:</h2> 
 
